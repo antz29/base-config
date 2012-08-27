@@ -1,0 +1,17 @@
+{
+    "name": "antz29/base-config",
+    "description": "Config library used by the Base PHP Framework",
+    "keywords": ["config", "base"],
+    "type": "library",
+    "homepage": "https://github.com/antz29/base-config",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "John Le Drew",
+            "homepage": "http://antz29.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
